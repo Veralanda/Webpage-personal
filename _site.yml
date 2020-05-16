@@ -1,0 +1,8 @@
+name: "Veras-choices"
+navbar:
+  title: "Vera's Choices"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
