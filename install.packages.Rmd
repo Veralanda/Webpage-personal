@@ -1,0 +1,10 @@
+
+```{r}
+#install.packages('devtools')
+library(devtools)
+
+#devtools::install_github("hadley/pkgdown")
+#pkgdown::build_site()
+
+```
+
