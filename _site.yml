@@ -1,4 +1,4 @@
-name: "Veras-choices"
+name: "Vera's Choices"
 navbar:
   title: "Vera's Choices"
   left:
@@ -6,3 +6,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+      
