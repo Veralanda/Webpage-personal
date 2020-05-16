@@ -4,6 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Choices"
+      href: choices.html
     - text: "About"
       href: about.html
-      
+    - text: "Contact"
+      href: contact.html 
